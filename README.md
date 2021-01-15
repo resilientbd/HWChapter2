@@ -77,7 +77,7 @@ can draw many different kinds of geometric shapes. For example, this program com
 Problem Statement: Using the Turtle from Exercise 29, write a program that draws a house <br />
 **Source Code:** [Solution 36](/src/Solution36.java) <br />
 **Output:** <br /> <br />
-![Solution 36 Output](/outputscreens/Solution36.png?raw=true "Solution 36") <br /> <br />
+![Solution 36 Output](/outputscreens/solution36.png?raw=true "Solution 36") <br /> <br />
 
 
 
