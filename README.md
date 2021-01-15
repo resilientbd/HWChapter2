@@ -5,20 +5,20 @@ This project is the solution exercise of **Chapter 2**, Book name: **An Introduc
 <hr />
 # Level 1 Programming Exercises
 
-**Problem 17:**  Writeaprogramthatdisplaysaframewindow800pixelswideand600pixels high. Set the title of the frame to Welcome to Java. <br />
+**Problem 17:**  Write a program that displays a frame window 800 pixels wide and 600 pixels high. Set the title of the frame to Welcome to Java. <br />
 **Source Code:** [Solution 17](/src/Solution17.java)  <br />
 **Output:**  <br />  <br />
 ![Solution 17 Output](/outputscreens/solution17.png?raw=true "Solution 17")  <br />  <br />
 <hr />
 
-**Problem 22:**  WriteaprogramthatdisplaysaframewindowWpixelswideandHpixels high. Use the Scanner to enter the values for W and H. The title of the frame is also entered by the user.  <br />
+**Problem 22:**  Write a program that displays a frame window W pixels wide and H pixels high. Use the Scanner to enter the values for W and H. The title of the frame is also entered by the user.  <br />
 **Source Code:** [Solution 22](src/Solution22.java) <br />
 **Output:** <br /> <br />
 ![Solution 22_1 Output](/outputscreens/solution22_1.png?raw=true "Solution 22_1") <br /> 
 ![Solution 22_2 Output](/outputscreens/solution22_2.png?raw=true "Solution 22_2") <br /> <br />
 <hr />
 
-**Problem 27:**  Writeaprogramthatacceptsastringinputandoutputsthenumberof characters in the string and the first and last character in separate lines. For
+**Problem 27:**  Write a program that accepts a string input and outputs the numberof characters in the string and the first and last character in separate lines. For
 example, if the input is I like Java then the output would be <br />
 11  <br /> I  <br /> a
 <br />
@@ -67,7 +67,7 @@ can draw many different kinds of geometric shapes. For example, this program com
 <hr />
 
 
-**Problem 32:**  UsingtheTurtleintroducedinExercise29,drawthreenestedrectangles. <br />
+**Problem 32:**  Using the Turtle introduced in Exercise 29, draw three nested rectangles. <br />
 **Source Code:** [Solution 32](/src/Solution32.java) <br />
 **Output:** <br /> <br />
 ![Solution 32 Output](/outputscreens/Solution32.png?raw=true "Solution 32") <br /> <br />
