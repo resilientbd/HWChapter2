@@ -1,8 +1,4 @@
 import javax.swing.*;
-import java.awt.*;
-import java.awt.event.WindowEvent;
-import java.awt.event.WindowListener;
-import java.beans.Visibility;
 
 public class Solution17 {
     public static void main(String[] args)
